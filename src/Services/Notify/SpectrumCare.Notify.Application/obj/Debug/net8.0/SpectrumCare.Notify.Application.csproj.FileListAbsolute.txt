@@ -9,3 +9,6 @@ D:\SpectrumCare\src\Services\Notify\SpectrumCare.Notify.Application\obj\Debug\ne
 D:\SpectrumCare\src\Services\Notify\SpectrumCare.Notify.Application\obj\Debug\net8.0\refint\SpectrumCare.Notify.Application.dll
 D:\SpectrumCare\src\Services\Notify\SpectrumCare.Notify.Application\obj\Debug\net8.0\SpectrumCare.Notify.Application.pdb
 D:\SpectrumCare\src\Services\Notify\SpectrumCare.Notify.Application\obj\Debug\net8.0\ref\SpectrumCare.Notify.Application.dll
+D:\SpectrumCare\src\Services\Notify\SpectrumCare.Notify.Application\bin\Debug\net8.0\SpectrumCare.Notify.Application.xml
+D:\SpectrumCare\src\Services\Notify\SpectrumCare.Notify.Application\obj\Debug\net8.0\SpectrumCare.Notify.Application.sourcelink.json
+D:\SpectrumCare\src\Services\Notify\SpectrumCare.Notify.Application\obj\Debug\net8.0\SpectrumCare.Notify.Application.xml

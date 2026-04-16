@@ -9,3 +9,6 @@ D:\SpectrumCare\src\Services\ClientHub\SpectrumCare.ClientHub.Application\obj\De
 D:\SpectrumCare\src\Services\ClientHub\SpectrumCare.ClientHub.Application\obj\Debug\net8.0\refint\SpectrumCare.ClientHub.Application.dll
 D:\SpectrumCare\src\Services\ClientHub\SpectrumCare.ClientHub.Application\obj\Debug\net8.0\SpectrumCare.ClientHub.Application.pdb
 D:\SpectrumCare\src\Services\ClientHub\SpectrumCare.ClientHub.Application\obj\Debug\net8.0\ref\SpectrumCare.ClientHub.Application.dll
+D:\SpectrumCare\src\Services\ClientHub\SpectrumCare.ClientHub.Application\bin\Debug\net8.0\SpectrumCare.ClientHub.Application.xml
+D:\SpectrumCare\src\Services\ClientHub\SpectrumCare.ClientHub.Application\obj\Debug\net8.0\SpectrumCare.ClientHub.Application.sourcelink.json
+D:\SpectrumCare\src\Services\ClientHub\SpectrumCare.ClientHub.Application\obj\Debug\net8.0\SpectrumCare.ClientHub.Application.xml

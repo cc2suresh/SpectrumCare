@@ -10,11 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("SpectrumCare.CareScheduler.Domain")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("SpectrumCare")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyCopyrightAttribute("Copyright © SpectrumCare 2024")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("SpectrumCare.CareScheduler.Domain")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2598d9990c7ce5561d20fb059074b4da951f7291")]
+[assembly: System.Reflection.AssemblyProductAttribute("SpectrumCare Platform")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SpectrumCare.CareScheduler.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 

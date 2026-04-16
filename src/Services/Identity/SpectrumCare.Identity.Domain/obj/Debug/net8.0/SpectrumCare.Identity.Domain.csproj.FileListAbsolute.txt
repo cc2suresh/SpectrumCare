@@ -9,3 +9,6 @@ D:\SpectrumCare\src\Services\Identity\SpectrumCare.Identity.Domain\obj\Debug\net
 D:\SpectrumCare\src\Services\Identity\SpectrumCare.Identity.Domain\obj\Debug\net8.0\refint\SpectrumCare.Identity.Domain.dll
 D:\SpectrumCare\src\Services\Identity\SpectrumCare.Identity.Domain\obj\Debug\net8.0\SpectrumCare.Identity.Domain.pdb
 D:\SpectrumCare\src\Services\Identity\SpectrumCare.Identity.Domain\obj\Debug\net8.0\ref\SpectrumCare.Identity.Domain.dll
+D:\SpectrumCare\src\Services\Identity\SpectrumCare.Identity.Domain\bin\Debug\net8.0\SpectrumCare.Identity.Domain.xml
+D:\SpectrumCare\src\Services\Identity\SpectrumCare.Identity.Domain\obj\Debug\net8.0\SpectrumCare.Identity.Domain.sourcelink.json
+D:\SpectrumCare\src\Services\Identity\SpectrumCare.Identity.Domain\obj\Debug\net8.0\SpectrumCare.Identity.Domain.xml
