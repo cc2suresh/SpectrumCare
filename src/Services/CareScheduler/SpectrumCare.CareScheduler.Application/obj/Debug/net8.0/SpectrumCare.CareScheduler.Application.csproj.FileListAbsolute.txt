@@ -1,0 +1,11 @@
+D:\SpectrumCare\src\Services\CareScheduler\SpectrumCare.CareScheduler.Application\bin\Debug\net8.0\SpectrumCare.CareScheduler.Application.deps.json
+D:\SpectrumCare\src\Services\CareScheduler\SpectrumCare.CareScheduler.Application\bin\Debug\net8.0\SpectrumCare.CareScheduler.Application.dll
+D:\SpectrumCare\src\Services\CareScheduler\SpectrumCare.CareScheduler.Application\bin\Debug\net8.0\SpectrumCare.CareScheduler.Application.pdb
+D:\SpectrumCare\src\Services\CareScheduler\SpectrumCare.CareScheduler.Application\obj\Debug\net8.0\SpectrumCare.CareScheduler.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\SpectrumCare\src\Services\CareScheduler\SpectrumCare.CareScheduler.Application\obj\Debug\net8.0\SpectrumCare.CareScheduler.Application.AssemblyInfoInputs.cache
+D:\SpectrumCare\src\Services\CareScheduler\SpectrumCare.CareScheduler.Application\obj\Debug\net8.0\SpectrumCare.CareScheduler.Application.AssemblyInfo.cs
+D:\SpectrumCare\src\Services\CareScheduler\SpectrumCare.CareScheduler.Application\obj\Debug\net8.0\SpectrumCare.CareScheduler.Application.csproj.CoreCompileInputs.cache
+D:\SpectrumCare\src\Services\CareScheduler\SpectrumCare.CareScheduler.Application\obj\Debug\net8.0\SpectrumCare.CareScheduler.Application.dll
+D:\SpectrumCare\src\Services\CareScheduler\SpectrumCare.CareScheduler.Application\obj\Debug\net8.0\refint\SpectrumCare.CareScheduler.Application.dll
+D:\SpectrumCare\src\Services\CareScheduler\SpectrumCare.CareScheduler.Application\obj\Debug\net8.0\SpectrumCare.CareScheduler.Application.pdb
+D:\SpectrumCare\src\Services\CareScheduler\SpectrumCare.CareScheduler.Application\obj\Debug\net8.0\ref\SpectrumCare.CareScheduler.Application.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SpectrumCare.BuildingBlocks.Infrastructure/1.0.0": {
+        "runtime": {
+          "SpectrumCare.BuildingBlocks.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SpectrumCare.BuildingBlocks.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

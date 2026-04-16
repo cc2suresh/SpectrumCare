@@ -1,0 +1,11 @@
+D:\SpectrumCare\src\Services\TenantConfig\SpectrumCare.TenantConfig.Domain\bin\Debug\net8.0\SpectrumCare.TenantConfig.Domain.deps.json
+D:\SpectrumCare\src\Services\TenantConfig\SpectrumCare.TenantConfig.Domain\bin\Debug\net8.0\SpectrumCare.TenantConfig.Domain.dll
+D:\SpectrumCare\src\Services\TenantConfig\SpectrumCare.TenantConfig.Domain\bin\Debug\net8.0\SpectrumCare.TenantConfig.Domain.pdb
+D:\SpectrumCare\src\Services\TenantConfig\SpectrumCare.TenantConfig.Domain\obj\Debug\net8.0\SpectrumCare.TenantConfig.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\SpectrumCare\src\Services\TenantConfig\SpectrumCare.TenantConfig.Domain\obj\Debug\net8.0\SpectrumCare.TenantConfig.Domain.AssemblyInfoInputs.cache
+D:\SpectrumCare\src\Services\TenantConfig\SpectrumCare.TenantConfig.Domain\obj\Debug\net8.0\SpectrumCare.TenantConfig.Domain.AssemblyInfo.cs
+D:\SpectrumCare\src\Services\TenantConfig\SpectrumCare.TenantConfig.Domain\obj\Debug\net8.0\SpectrumCare.TenantConfig.Domain.csproj.CoreCompileInputs.cache
+D:\SpectrumCare\src\Services\TenantConfig\SpectrumCare.TenantConfig.Domain\obj\Debug\net8.0\SpectrumCare.TenantConfig.Domain.dll
+D:\SpectrumCare\src\Services\TenantConfig\SpectrumCare.TenantConfig.Domain\obj\Debug\net8.0\refint\SpectrumCare.TenantConfig.Domain.dll
+D:\SpectrumCare\src\Services\TenantConfig\SpectrumCare.TenantConfig.Domain\obj\Debug\net8.0\SpectrumCare.TenantConfig.Domain.pdb
+D:\SpectrumCare\src\Services\TenantConfig\SpectrumCare.TenantConfig.Domain\obj\Debug\net8.0\ref\SpectrumCare.TenantConfig.Domain.dll

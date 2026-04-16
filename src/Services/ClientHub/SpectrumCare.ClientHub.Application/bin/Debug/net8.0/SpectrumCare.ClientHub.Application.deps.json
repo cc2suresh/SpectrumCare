@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SpectrumCare.ClientHub.Application/1.0.0": {
+        "runtime": {
+          "SpectrumCare.ClientHub.Application.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SpectrumCare.ClientHub.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

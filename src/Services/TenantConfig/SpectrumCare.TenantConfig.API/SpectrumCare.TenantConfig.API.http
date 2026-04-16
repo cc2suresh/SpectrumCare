@@ -1,0 +1,6 @@
+@SpectrumCare.TenantConfig.API_HostAddress = http://localhost:5011
+
+GET {{SpectrumCare.TenantConfig.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

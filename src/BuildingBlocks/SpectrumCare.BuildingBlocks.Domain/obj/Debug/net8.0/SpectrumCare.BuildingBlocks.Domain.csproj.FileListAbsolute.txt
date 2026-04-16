@@ -1,0 +1,11 @@
+D:\SpectrumCare\src\BuildingBlocks\SpectrumCare.BuildingBlocks.Domain\bin\Debug\net8.0\SpectrumCare.BuildingBlocks.Domain.deps.json
+D:\SpectrumCare\src\BuildingBlocks\SpectrumCare.BuildingBlocks.Domain\bin\Debug\net8.0\SpectrumCare.BuildingBlocks.Domain.dll
+D:\SpectrumCare\src\BuildingBlocks\SpectrumCare.BuildingBlocks.Domain\bin\Debug\net8.0\SpectrumCare.BuildingBlocks.Domain.pdb
+D:\SpectrumCare\src\BuildingBlocks\SpectrumCare.BuildingBlocks.Domain\obj\Debug\net8.0\SpectrumCare.BuildingBlocks.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\SpectrumCare\src\BuildingBlocks\SpectrumCare.BuildingBlocks.Domain\obj\Debug\net8.0\SpectrumCare.BuildingBlocks.Domain.AssemblyInfoInputs.cache
+D:\SpectrumCare\src\BuildingBlocks\SpectrumCare.BuildingBlocks.Domain\obj\Debug\net8.0\SpectrumCare.BuildingBlocks.Domain.AssemblyInfo.cs
+D:\SpectrumCare\src\BuildingBlocks\SpectrumCare.BuildingBlocks.Domain\obj\Debug\net8.0\SpectrumCare.BuildingBlocks.Domain.csproj.CoreCompileInputs.cache
+D:\SpectrumCare\src\BuildingBlocks\SpectrumCare.BuildingBlocks.Domain\obj\Debug\net8.0\SpectrumCare.BuildingBlocks.Domain.dll
+D:\SpectrumCare\src\BuildingBlocks\SpectrumCare.BuildingBlocks.Domain\obj\Debug\net8.0\refint\SpectrumCare.BuildingBlocks.Domain.dll
+D:\SpectrumCare\src\BuildingBlocks\SpectrumCare.BuildingBlocks.Domain\obj\Debug\net8.0\SpectrumCare.BuildingBlocks.Domain.pdb
+D:\SpectrumCare\src\BuildingBlocks\SpectrumCare.BuildingBlocks.Domain\obj\Debug\net8.0\ref\SpectrumCare.BuildingBlocks.Domain.dll

@@ -1,0 +1,6 @@
+@SpectrumCare.Identity.API_HostAddress = http://localhost:5206
+
+GET {{SpectrumCare.Identity.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

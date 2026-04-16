@@ -1,0 +1,11 @@
+D:\SpectrumCare\src\Services\Identity\SpectrumCare.Identity.Domain\bin\Debug\net8.0\SpectrumCare.Identity.Domain.deps.json
+D:\SpectrumCare\src\Services\Identity\SpectrumCare.Identity.Domain\bin\Debug\net8.0\SpectrumCare.Identity.Domain.dll
+D:\SpectrumCare\src\Services\Identity\SpectrumCare.Identity.Domain\bin\Debug\net8.0\SpectrumCare.Identity.Domain.pdb
+D:\SpectrumCare\src\Services\Identity\SpectrumCare.Identity.Domain\obj\Debug\net8.0\SpectrumCare.Identity.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\SpectrumCare\src\Services\Identity\SpectrumCare.Identity.Domain\obj\Debug\net8.0\SpectrumCare.Identity.Domain.AssemblyInfoInputs.cache
+D:\SpectrumCare\src\Services\Identity\SpectrumCare.Identity.Domain\obj\Debug\net8.0\SpectrumCare.Identity.Domain.AssemblyInfo.cs
+D:\SpectrumCare\src\Services\Identity\SpectrumCare.Identity.Domain\obj\Debug\net8.0\SpectrumCare.Identity.Domain.csproj.CoreCompileInputs.cache
+D:\SpectrumCare\src\Services\Identity\SpectrumCare.Identity.Domain\obj\Debug\net8.0\SpectrumCare.Identity.Domain.dll
+D:\SpectrumCare\src\Services\Identity\SpectrumCare.Identity.Domain\obj\Debug\net8.0\refint\SpectrumCare.Identity.Domain.dll
+D:\SpectrumCare\src\Services\Identity\SpectrumCare.Identity.Domain\obj\Debug\net8.0\SpectrumCare.Identity.Domain.pdb
+D:\SpectrumCare\src\Services\Identity\SpectrumCare.Identity.Domain\obj\Debug\net8.0\ref\SpectrumCare.Identity.Domain.dll

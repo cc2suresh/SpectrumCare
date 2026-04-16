@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SpectrumCare.ClinicalInsights.Domain/1.0.0": {
+        "runtime": {
+          "SpectrumCare.ClinicalInsights.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SpectrumCare.ClinicalInsights.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

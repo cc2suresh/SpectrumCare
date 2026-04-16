@@ -1,0 +1,11 @@
+D:\SpectrumCare\src\Services\ClientHub\SpectrumCare.ClientHub.Domain\bin\Debug\net8.0\SpectrumCare.ClientHub.Domain.deps.json
+D:\SpectrumCare\src\Services\ClientHub\SpectrumCare.ClientHub.Domain\bin\Debug\net8.0\SpectrumCare.ClientHub.Domain.dll
+D:\SpectrumCare\src\Services\ClientHub\SpectrumCare.ClientHub.Domain\bin\Debug\net8.0\SpectrumCare.ClientHub.Domain.pdb
+D:\SpectrumCare\src\Services\ClientHub\SpectrumCare.ClientHub.Domain\obj\Debug\net8.0\SpectrumCare.ClientHub.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\SpectrumCare\src\Services\ClientHub\SpectrumCare.ClientHub.Domain\obj\Debug\net8.0\SpectrumCare.ClientHub.Domain.AssemblyInfoInputs.cache
+D:\SpectrumCare\src\Services\ClientHub\SpectrumCare.ClientHub.Domain\obj\Debug\net8.0\SpectrumCare.ClientHub.Domain.AssemblyInfo.cs
+D:\SpectrumCare\src\Services\ClientHub\SpectrumCare.ClientHub.Domain\obj\Debug\net8.0\SpectrumCare.ClientHub.Domain.csproj.CoreCompileInputs.cache
+D:\SpectrumCare\src\Services\ClientHub\SpectrumCare.ClientHub.Domain\obj\Debug\net8.0\SpectrumCare.ClientHub.Domain.dll
+D:\SpectrumCare\src\Services\ClientHub\SpectrumCare.ClientHub.Domain\obj\Debug\net8.0\refint\SpectrumCare.ClientHub.Domain.dll
+D:\SpectrumCare\src\Services\ClientHub\SpectrumCare.ClientHub.Domain\obj\Debug\net8.0\SpectrumCare.ClientHub.Domain.pdb
+D:\SpectrumCare\src\Services\ClientHub\SpectrumCare.ClientHub.Domain\obj\Debug\net8.0\ref\SpectrumCare.ClientHub.Domain.dll

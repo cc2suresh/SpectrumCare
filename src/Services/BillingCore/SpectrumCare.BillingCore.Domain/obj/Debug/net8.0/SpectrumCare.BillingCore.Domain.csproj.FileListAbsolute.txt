@@ -1,0 +1,11 @@
+D:\SpectrumCare\src\Services\BillingCore\SpectrumCare.BillingCore.Domain\bin\Debug\net8.0\SpectrumCare.BillingCore.Domain.deps.json
+D:\SpectrumCare\src\Services\BillingCore\SpectrumCare.BillingCore.Domain\bin\Debug\net8.0\SpectrumCare.BillingCore.Domain.dll
+D:\SpectrumCare\src\Services\BillingCore\SpectrumCare.BillingCore.Domain\bin\Debug\net8.0\SpectrumCare.BillingCore.Domain.pdb
+D:\SpectrumCare\src\Services\BillingCore\SpectrumCare.BillingCore.Domain\obj\Debug\net8.0\SpectrumCare.BillingCore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\SpectrumCare\src\Services\BillingCore\SpectrumCare.BillingCore.Domain\obj\Debug\net8.0\SpectrumCare.BillingCore.Domain.AssemblyInfoInputs.cache
+D:\SpectrumCare\src\Services\BillingCore\SpectrumCare.BillingCore.Domain\obj\Debug\net8.0\SpectrumCare.BillingCore.Domain.AssemblyInfo.cs
+D:\SpectrumCare\src\Services\BillingCore\SpectrumCare.BillingCore.Domain\obj\Debug\net8.0\SpectrumCare.BillingCore.Domain.csproj.CoreCompileInputs.cache
+D:\SpectrumCare\src\Services\BillingCore\SpectrumCare.BillingCore.Domain\obj\Debug\net8.0\SpectrumCare.BillingCore.Domain.dll
+D:\SpectrumCare\src\Services\BillingCore\SpectrumCare.BillingCore.Domain\obj\Debug\net8.0\refint\SpectrumCare.BillingCore.Domain.dll
+D:\SpectrumCare\src\Services\BillingCore\SpectrumCare.BillingCore.Domain\obj\Debug\net8.0\SpectrumCare.BillingCore.Domain.pdb
+D:\SpectrumCare\src\Services\BillingCore\SpectrumCare.BillingCore.Domain\obj\Debug\net8.0\ref\SpectrumCare.BillingCore.Domain.dll

@@ -1,0 +1,11 @@
+D:\SpectrumCare\src\Services\ClinicalInsights\SpectrumCare.ClinicalInsights.Application\bin\Debug\net8.0\SpectrumCare.ClinicalInsights.Application.deps.json
+D:\SpectrumCare\src\Services\ClinicalInsights\SpectrumCare.ClinicalInsights.Application\bin\Debug\net8.0\SpectrumCare.ClinicalInsights.Application.dll
+D:\SpectrumCare\src\Services\ClinicalInsights\SpectrumCare.ClinicalInsights.Application\bin\Debug\net8.0\SpectrumCare.ClinicalInsights.Application.pdb
+D:\SpectrumCare\src\Services\ClinicalInsights\SpectrumCare.ClinicalInsights.Application\obj\Debug\net8.0\SpectrumCare.ClinicalInsights.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\SpectrumCare\src\Services\ClinicalInsights\SpectrumCare.ClinicalInsights.Application\obj\Debug\net8.0\SpectrumCare.ClinicalInsights.Application.AssemblyInfoInputs.cache
+D:\SpectrumCare\src\Services\ClinicalInsights\SpectrumCare.ClinicalInsights.Application\obj\Debug\net8.0\SpectrumCare.ClinicalInsights.Application.AssemblyInfo.cs
+D:\SpectrumCare\src\Services\ClinicalInsights\SpectrumCare.ClinicalInsights.Application\obj\Debug\net8.0\SpectrumCare.ClinicalInsights.Application.csproj.CoreCompileInputs.cache
+D:\SpectrumCare\src\Services\ClinicalInsights\SpectrumCare.ClinicalInsights.Application\obj\Debug\net8.0\SpectrumCare.ClinicalInsights.Application.dll
+D:\SpectrumCare\src\Services\ClinicalInsights\SpectrumCare.ClinicalInsights.Application\obj\Debug\net8.0\refint\SpectrumCare.ClinicalInsights.Application.dll
+D:\SpectrumCare\src\Services\ClinicalInsights\SpectrumCare.ClinicalInsights.Application\obj\Debug\net8.0\SpectrumCare.ClinicalInsights.Application.pdb
+D:\SpectrumCare\src\Services\ClinicalInsights\SpectrumCare.ClinicalInsights.Application\obj\Debug\net8.0\ref\SpectrumCare.ClinicalInsights.Application.dll

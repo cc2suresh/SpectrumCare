@@ -1,0 +1,11 @@
+D:\SpectrumCare\src\Services\StaffCore\SpectrumCare.StaffCore.Infrastructure\bin\Debug\net8.0\SpectrumCare.StaffCore.Infrastructure.deps.json
+D:\SpectrumCare\src\Services\StaffCore\SpectrumCare.StaffCore.Infrastructure\bin\Debug\net8.0\SpectrumCare.StaffCore.Infrastructure.dll
+D:\SpectrumCare\src\Services\StaffCore\SpectrumCare.StaffCore.Infrastructure\bin\Debug\net8.0\SpectrumCare.StaffCore.Infrastructure.pdb
+D:\SpectrumCare\src\Services\StaffCore\SpectrumCare.StaffCore.Infrastructure\obj\Debug\net8.0\SpectrumCare.StaffCore.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\SpectrumCare\src\Services\StaffCore\SpectrumCare.StaffCore.Infrastructure\obj\Debug\net8.0\SpectrumCare.StaffCore.Infrastructure.AssemblyInfoInputs.cache
+D:\SpectrumCare\src\Services\StaffCore\SpectrumCare.StaffCore.Infrastructure\obj\Debug\net8.0\SpectrumCare.StaffCore.Infrastructure.AssemblyInfo.cs
+D:\SpectrumCare\src\Services\StaffCore\SpectrumCare.StaffCore.Infrastructure\obj\Debug\net8.0\SpectrumCare.StaffCore.Infrastructure.csproj.CoreCompileInputs.cache
+D:\SpectrumCare\src\Services\StaffCore\SpectrumCare.StaffCore.Infrastructure\obj\Debug\net8.0\SpectrumCare.StaffCore.Infrastructure.dll
+D:\SpectrumCare\src\Services\StaffCore\SpectrumCare.StaffCore.Infrastructure\obj\Debug\net8.0\refint\SpectrumCare.StaffCore.Infrastructure.dll
+D:\SpectrumCare\src\Services\StaffCore\SpectrumCare.StaffCore.Infrastructure\obj\Debug\net8.0\SpectrumCare.StaffCore.Infrastructure.pdb
+D:\SpectrumCare\src\Services\StaffCore\SpectrumCare.StaffCore.Infrastructure\obj\Debug\net8.0\ref\SpectrumCare.StaffCore.Infrastructure.dll

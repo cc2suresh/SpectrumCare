@@ -1,0 +1,11 @@
+D:\SpectrumCare\src\Services\Notify\SpectrumCare.Notify.Infrastructure\bin\Debug\net8.0\SpectrumCare.Notify.Infrastructure.deps.json
+D:\SpectrumCare\src\Services\Notify\SpectrumCare.Notify.Infrastructure\bin\Debug\net8.0\SpectrumCare.Notify.Infrastructure.dll
+D:\SpectrumCare\src\Services\Notify\SpectrumCare.Notify.Infrastructure\bin\Debug\net8.0\SpectrumCare.Notify.Infrastructure.pdb
+D:\SpectrumCare\src\Services\Notify\SpectrumCare.Notify.Infrastructure\obj\Debug\net8.0\SpectrumCare.Notify.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\SpectrumCare\src\Services\Notify\SpectrumCare.Notify.Infrastructure\obj\Debug\net8.0\SpectrumCare.Notify.Infrastructure.AssemblyInfoInputs.cache
+D:\SpectrumCare\src\Services\Notify\SpectrumCare.Notify.Infrastructure\obj\Debug\net8.0\SpectrumCare.Notify.Infrastructure.AssemblyInfo.cs
+D:\SpectrumCare\src\Services\Notify\SpectrumCare.Notify.Infrastructure\obj\Debug\net8.0\SpectrumCare.Notify.Infrastructure.csproj.CoreCompileInputs.cache
+D:\SpectrumCare\src\Services\Notify\SpectrumCare.Notify.Infrastructure\obj\Debug\net8.0\SpectrumCare.Notify.Infrastructure.dll
+D:\SpectrumCare\src\Services\Notify\SpectrumCare.Notify.Infrastructure\obj\Debug\net8.0\refint\SpectrumCare.Notify.Infrastructure.dll
+D:\SpectrumCare\src\Services\Notify\SpectrumCare.Notify.Infrastructure\obj\Debug\net8.0\SpectrumCare.Notify.Infrastructure.pdb
+D:\SpectrumCare\src\Services\Notify\SpectrumCare.Notify.Infrastructure\obj\Debug\net8.0\ref\SpectrumCare.Notify.Infrastructure.dll
