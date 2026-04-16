@@ -9,3 +9,6 @@ D:\SpectrumCare\src\Services\BillingCore\SpectrumCare.BillingCore.Application\ob
 D:\SpectrumCare\src\Services\BillingCore\SpectrumCare.BillingCore.Application\obj\Debug\net8.0\refint\SpectrumCare.BillingCore.Application.dll
 D:\SpectrumCare\src\Services\BillingCore\SpectrumCare.BillingCore.Application\obj\Debug\net8.0\SpectrumCare.BillingCore.Application.pdb
 D:\SpectrumCare\src\Services\BillingCore\SpectrumCare.BillingCore.Application\obj\Debug\net8.0\ref\SpectrumCare.BillingCore.Application.dll
+D:\SpectrumCare\src\Services\BillingCore\SpectrumCare.BillingCore.Application\bin\Debug\net8.0\SpectrumCare.BillingCore.Application.xml
+D:\SpectrumCare\src\Services\BillingCore\SpectrumCare.BillingCore.Application\obj\Debug\net8.0\SpectrumCare.BillingCore.Application.sourcelink.json
+D:\SpectrumCare\src\Services\BillingCore\SpectrumCare.BillingCore.Application\obj\Debug\net8.0\SpectrumCare.BillingCore.Application.xml

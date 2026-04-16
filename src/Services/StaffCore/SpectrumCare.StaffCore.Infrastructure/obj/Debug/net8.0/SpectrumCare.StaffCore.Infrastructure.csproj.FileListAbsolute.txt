@@ -9,3 +9,6 @@ D:\SpectrumCare\src\Services\StaffCore\SpectrumCare.StaffCore.Infrastructure\obj
 D:\SpectrumCare\src\Services\StaffCore\SpectrumCare.StaffCore.Infrastructure\obj\Debug\net8.0\refint\SpectrumCare.StaffCore.Infrastructure.dll
 D:\SpectrumCare\src\Services\StaffCore\SpectrumCare.StaffCore.Infrastructure\obj\Debug\net8.0\SpectrumCare.StaffCore.Infrastructure.pdb
 D:\SpectrumCare\src\Services\StaffCore\SpectrumCare.StaffCore.Infrastructure\obj\Debug\net8.0\ref\SpectrumCare.StaffCore.Infrastructure.dll
+D:\SpectrumCare\src\Services\StaffCore\SpectrumCare.StaffCore.Infrastructure\bin\Debug\net8.0\SpectrumCare.StaffCore.Infrastructure.xml
+D:\SpectrumCare\src\Services\StaffCore\SpectrumCare.StaffCore.Infrastructure\obj\Debug\net8.0\SpectrumCare.StaffCore.Infrastructure.sourcelink.json
+D:\SpectrumCare\src\Services\StaffCore\SpectrumCare.StaffCore.Infrastructure\obj\Debug\net8.0\SpectrumCare.StaffCore.Infrastructure.xml

@@ -9,3 +9,6 @@ D:\SpectrumCare\src\Services\ClientHub\SpectrumCare.ClientHub.Domain\obj\Debug\n
 D:\SpectrumCare\src\Services\ClientHub\SpectrumCare.ClientHub.Domain\obj\Debug\net8.0\refint\SpectrumCare.ClientHub.Domain.dll
 D:\SpectrumCare\src\Services\ClientHub\SpectrumCare.ClientHub.Domain\obj\Debug\net8.0\SpectrumCare.ClientHub.Domain.pdb
 D:\SpectrumCare\src\Services\ClientHub\SpectrumCare.ClientHub.Domain\obj\Debug\net8.0\ref\SpectrumCare.ClientHub.Domain.dll
+D:\SpectrumCare\src\Services\ClientHub\SpectrumCare.ClientHub.Domain\bin\Debug\net8.0\SpectrumCare.ClientHub.Domain.xml
+D:\SpectrumCare\src\Services\ClientHub\SpectrumCare.ClientHub.Domain\obj\Debug\net8.0\SpectrumCare.ClientHub.Domain.sourcelink.json
+D:\SpectrumCare\src\Services\ClientHub\SpectrumCare.ClientHub.Domain\obj\Debug\net8.0\SpectrumCare.ClientHub.Domain.xml

@@ -1,10 +1,12 @@
+using Xunit;
+
 namespace SpectrumCare.BillingCore.IntegrationTests;
 
-public class UnitTest1
+public class PlaceholderTest
 {
     [Fact]
-    public void Test1()
+    public void Placeholder_ShouldPass()
     {
-
+        Assert.True(true);
     }
 }

@@ -9,3 +9,6 @@ D:\SpectrumCare\src\Services\ClinicalInsights\SpectrumCare.ClinicalInsights.Infr
 D:\SpectrumCare\src\Services\ClinicalInsights\SpectrumCare.ClinicalInsights.Infrastructure\obj\Debug\net8.0\refint\SpectrumCare.ClinicalInsights.Infrastructure.dll
 D:\SpectrumCare\src\Services\ClinicalInsights\SpectrumCare.ClinicalInsights.Infrastructure\obj\Debug\net8.0\SpectrumCare.ClinicalInsights.Infrastructure.pdb
 D:\SpectrumCare\src\Services\ClinicalInsights\SpectrumCare.ClinicalInsights.Infrastructure\obj\Debug\net8.0\ref\SpectrumCare.ClinicalInsights.Infrastructure.dll
+D:\SpectrumCare\src\Services\ClinicalInsights\SpectrumCare.ClinicalInsights.Infrastructure\bin\Debug\net8.0\SpectrumCare.ClinicalInsights.Infrastructure.xml
+D:\SpectrumCare\src\Services\ClinicalInsights\SpectrumCare.ClinicalInsights.Infrastructure\obj\Debug\net8.0\SpectrumCare.ClinicalInsights.Infrastructure.sourcelink.json
+D:\SpectrumCare\src\Services\ClinicalInsights\SpectrumCare.ClinicalInsights.Infrastructure\obj\Debug\net8.0\SpectrumCare.ClinicalInsights.Infrastructure.xml

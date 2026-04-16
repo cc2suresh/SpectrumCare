@@ -9,3 +9,6 @@ D:\SpectrumCare\src\Services\TenantConfig\SpectrumCare.TenantConfig.Domain\obj\D
 D:\SpectrumCare\src\Services\TenantConfig\SpectrumCare.TenantConfig.Domain\obj\Debug\net8.0\refint\SpectrumCare.TenantConfig.Domain.dll
 D:\SpectrumCare\src\Services\TenantConfig\SpectrumCare.TenantConfig.Domain\obj\Debug\net8.0\SpectrumCare.TenantConfig.Domain.pdb
 D:\SpectrumCare\src\Services\TenantConfig\SpectrumCare.TenantConfig.Domain\obj\Debug\net8.0\ref\SpectrumCare.TenantConfig.Domain.dll
+D:\SpectrumCare\src\Services\TenantConfig\SpectrumCare.TenantConfig.Domain\bin\Debug\net8.0\SpectrumCare.TenantConfig.Domain.xml
+D:\SpectrumCare\src\Services\TenantConfig\SpectrumCare.TenantConfig.Domain\obj\Debug\net8.0\SpectrumCare.TenantConfig.Domain.sourcelink.json
+D:\SpectrumCare\src\Services\TenantConfig\SpectrumCare.TenantConfig.Domain\obj\Debug\net8.0\SpectrumCare.TenantConfig.Domain.xml
