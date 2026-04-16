@@ -9,3 +9,6 @@ D:\SpectrumCare\src\Services\CareScheduler\SpectrumCare.CareScheduler.Domain\obj
 D:\SpectrumCare\src\Services\CareScheduler\SpectrumCare.CareScheduler.Domain\obj\Debug\net8.0\refint\SpectrumCare.CareScheduler.Domain.dll
 D:\SpectrumCare\src\Services\CareScheduler\SpectrumCare.CareScheduler.Domain\obj\Debug\net8.0\SpectrumCare.CareScheduler.Domain.pdb
 D:\SpectrumCare\src\Services\CareScheduler\SpectrumCare.CareScheduler.Domain\obj\Debug\net8.0\ref\SpectrumCare.CareScheduler.Domain.dll
+D:\SpectrumCare\src\Services\CareScheduler\SpectrumCare.CareScheduler.Domain\bin\Debug\net8.0\SpectrumCare.CareScheduler.Domain.xml
+D:\SpectrumCare\src\Services\CareScheduler\SpectrumCare.CareScheduler.Domain\obj\Debug\net8.0\SpectrumCare.CareScheduler.Domain.sourcelink.json
+D:\SpectrumCare\src\Services\CareScheduler\SpectrumCare.CareScheduler.Domain\obj\Debug\net8.0\SpectrumCare.CareScheduler.Domain.xml

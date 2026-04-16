@@ -9,3 +9,6 @@ D:\SpectrumCare\src\BuildingBlocks\SpectrumCare.BuildingBlocks.Domain\obj\Debug\
 D:\SpectrumCare\src\BuildingBlocks\SpectrumCare.BuildingBlocks.Domain\obj\Debug\net8.0\refint\SpectrumCare.BuildingBlocks.Domain.dll
 D:\SpectrumCare\src\BuildingBlocks\SpectrumCare.BuildingBlocks.Domain\obj\Debug\net8.0\SpectrumCare.BuildingBlocks.Domain.pdb
 D:\SpectrumCare\src\BuildingBlocks\SpectrumCare.BuildingBlocks.Domain\obj\Debug\net8.0\ref\SpectrumCare.BuildingBlocks.Domain.dll
+D:\SpectrumCare\src\BuildingBlocks\SpectrumCare.BuildingBlocks.Domain\bin\Debug\net8.0\SpectrumCare.BuildingBlocks.Domain.xml
+D:\SpectrumCare\src\BuildingBlocks\SpectrumCare.BuildingBlocks.Domain\obj\Debug\net8.0\SpectrumCare.BuildingBlocks.Domain.sourcelink.json
+D:\SpectrumCare\src\BuildingBlocks\SpectrumCare.BuildingBlocks.Domain\obj\Debug\net8.0\SpectrumCare.BuildingBlocks.Domain.xml
