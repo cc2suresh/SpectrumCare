@@ -1,0 +1,8 @@
+version: '3.8'
+
+services:
+  sqlserver:
+    environment:
+      - MSSQL_SA_PASSWORD=SpectrumCare@2024!
+    ports:
+      - "1433:1433"
