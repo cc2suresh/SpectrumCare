@@ -1,0 +1,15 @@
+D:\SpectrumCare\src\BuildingBlocks\SpectrumCare.BuildingBlocks.Domain\obj\Debug\net9.0\SpectrumCare.BuildingBlocks.Domain.csproj.AssemblyReference.cache
+D:\SpectrumCare\src\BuildingBlocks\SpectrumCare.BuildingBlocks.Domain\obj\Debug\net9.0\SpectrumCare.BuildingBlocks.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\SpectrumCare\src\BuildingBlocks\SpectrumCare.BuildingBlocks.Domain\obj\Debug\net9.0\SpectrumCare.BuildingBlocks.Domain.AssemblyInfoInputs.cache
+D:\SpectrumCare\src\BuildingBlocks\SpectrumCare.BuildingBlocks.Domain\obj\Debug\net9.0\SpectrumCare.BuildingBlocks.Domain.AssemblyInfo.cs
+D:\SpectrumCare\src\BuildingBlocks\SpectrumCare.BuildingBlocks.Domain\obj\Debug\net9.0\SpectrumCare.BuildingBlocks.Domain.csproj.CoreCompileInputs.cache
+D:\SpectrumCare\src\BuildingBlocks\SpectrumCare.BuildingBlocks.Domain\obj\Debug\net9.0\SpectrumCare.BuildingBlocks.Domain.sourcelink.json
+D:\SpectrumCare\src\BuildingBlocks\SpectrumCare.BuildingBlocks.Domain\bin\Debug\net9.0\SpectrumCare.BuildingBlocks.Domain.deps.json
+D:\SpectrumCare\src\BuildingBlocks\SpectrumCare.BuildingBlocks.Domain\bin\Debug\net9.0\SpectrumCare.BuildingBlocks.Domain.dll
+D:\SpectrumCare\src\BuildingBlocks\SpectrumCare.BuildingBlocks.Domain\bin\Debug\net9.0\SpectrumCare.BuildingBlocks.Domain.pdb
+D:\SpectrumCare\src\BuildingBlocks\SpectrumCare.BuildingBlocks.Domain\bin\Debug\net9.0\SpectrumCare.BuildingBlocks.Domain.xml
+D:\SpectrumCare\src\BuildingBlocks\SpectrumCare.BuildingBlocks.Domain\obj\Debug\net9.0\SpectrumCare.BuildingBlocks.Domain.dll
+D:\SpectrumCare\src\BuildingBlocks\SpectrumCare.BuildingBlocks.Domain\obj\Debug\net9.0\refint\SpectrumCare.BuildingBlocks.Domain.dll
+D:\SpectrumCare\src\BuildingBlocks\SpectrumCare.BuildingBlocks.Domain\obj\Debug\net9.0\SpectrumCare.BuildingBlocks.Domain.xml
+D:\SpectrumCare\src\BuildingBlocks\SpectrumCare.BuildingBlocks.Domain\obj\Debug\net9.0\SpectrumCare.BuildingBlocks.Domain.pdb
+D:\SpectrumCare\src\BuildingBlocks\SpectrumCare.BuildingBlocks.Domain\obj\Debug\net9.0\ref\SpectrumCare.BuildingBlocks.Domain.dll
