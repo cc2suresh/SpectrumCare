@@ -23,15 +23,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net9.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {}
           }
         },
@@ -48,8 +48,20 @@
         "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "MediatR.Contracts": {
+              "target": "Package",
+              "version": "[2.0.1, )",
+              "versionCentrallyManaged": true
+            }
+          },
           "centralPackageVersions": {
             "coverlet.collector": "6.0.4",
             "Dapper": "2.1.35",
@@ -59,7 +71,7 @@
             "Mapster": "7.4.0",
             "Mapster.DependencyInjection": "1.0.1",
             "MediatR": "12.4.1",
-            "MediatR.Extensions.Microsoft.DependencyInjection": "11.1.0",
+            "MediatR.Contracts": "2.0.1",
             "Microsoft.AspNetCore.Authentication.JwtBearer": "9.0.0",
             "Microsoft.AspNetCore.Mvc.Testing": "9.0.0",
             "Microsoft.AspNetCore.OpenApi": "9.0.0",
