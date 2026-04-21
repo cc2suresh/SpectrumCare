@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "jLWZ0ZpGykg=",
+  "dgSpecHash": "HGGPsJmYZzE=",
   "success": true,
   "projectFilePath": "D:\\SpectrumCare\\src\\Services\\Identity\\SpectrumCare.Identity.Infrastructure\\SpectrumCare.Identity.Infrastructure.csproj",
   "expectedPackageFiles": [
@@ -77,30 +77,5 @@
     "C:\\Users\\iot2a\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512",
     "C:\\Users\\iot2a\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1603",
-      "level": "Warning",
-      "message": "SpectrumCare.Identity.Infrastructure depends on Microsoft.IdentityModel.Tokens (>= 8.3.3) but Microsoft.IdentityModel.Tokens 8.3.3 was not found. Microsoft.IdentityModel.Tokens 8.4.0 was resolved instead.",
-      "projectPath": "D:\\SpectrumCare\\src\\Services\\Identity\\SpectrumCare.Identity.Infrastructure\\SpectrumCare.Identity.Infrastructure.csproj",
-      "warningLevel": 1,
-      "filePath": "D:\\SpectrumCare\\src\\Services\\Identity\\SpectrumCare.Identity.Infrastructure\\SpectrumCare.Identity.Infrastructure.csproj",
-      "libraryId": "Microsoft.IdentityModel.Tokens",
-      "targetGraphs": [
-        "net9.0"
-      ]
-    },
-    {
-      "code": "NU1603",
-      "level": "Warning",
-      "message": "SpectrumCare.Identity.Infrastructure depends on System.IdentityModel.Tokens.Jwt (>= 8.3.3) but System.IdentityModel.Tokens.Jwt 8.3.3 was not found. System.IdentityModel.Tokens.Jwt 8.4.0 was resolved instead.",
-      "projectPath": "D:\\SpectrumCare\\src\\Services\\Identity\\SpectrumCare.Identity.Infrastructure\\SpectrumCare.Identity.Infrastructure.csproj",
-      "warningLevel": 1,
-      "filePath": "D:\\SpectrumCare\\src\\Services\\Identity\\SpectrumCare.Identity.Infrastructure\\SpectrumCare.Identity.Infrastructure.csproj",
-      "libraryId": "System.IdentityModel.Tokens.Jwt",
-      "targetGraphs": [
-        "net9.0"
-      ]
-    }
-  ]
+  "logs": []
 }

@@ -7,7 +7,7 @@ namespace SpectrumCare.Identity.Infrastructure.Services;
 /// <summary>
 /// HTTP context-based implementation of ITenantContext.
 /// Resolves tenant identity from JWT claims on every request.
-/// Critical for multi-tenant data isolation via EF Core global query filters.
+/// Returns empty Guid for unauthenticated requests on public endpoints.
 /// Registered as Scoped — one instance per HTTP request.
 /// </summary>
 public sealed class TenantContextService : ITenantContext
@@ -19,19 +19,19 @@ public sealed class TenantContextService : ITenantContext
         _httpContextAccessor = httpContextAccessor;
     }
 
+    private string? GetTenantIdClaim() =>
+        _httpContextAccessor.HttpContext?
+            .User.FindFirstValue("tenantId");
+
     /// <inheritdoc/>
     public Guid TenantId
     {
         get
         {
-            var value = _httpContextAccessor.HttpContext?
-                .User.FindFirstValue("tenantId");
-
-            if (!Guid.TryParse(value, out var tenantId))
-                throw new InvalidOperationException(
-                    "TenantId claim is missing or invalid. Ensure JWT contains tenantId claim.");
-
-            return tenantId;
+            var value = GetTenantIdClaim();
+            return Guid.TryParse(value, out var tenantId)
+                ? tenantId
+                : Guid.Empty;
         }
     }
 
@@ -45,9 +45,8 @@ public sealed class TenantContextService : ITenantContext
     {
         get
         {
-            var value = _httpContextAccessor.HttpContext?
-                .User.FindFirstValue("tenantId");
-            return Guid.TryParse(value, out _);
+            var value = GetTenantIdClaim();
+            return Guid.TryParse(value, out var id) && id != Guid.Empty;
         }
     }
 }

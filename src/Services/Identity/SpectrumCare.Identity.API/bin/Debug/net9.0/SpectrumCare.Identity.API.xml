@@ -4,5 +4,57 @@
         <name>SpectrumCare.Identity.API</name>
     </assembly>
     <members>
+        <member name="T:SpectrumCare.Identity.API.Contracts.Requests.LoginRequest">
+            <summary>
+            HTTP request contract for user login.
+            </summary>
+        </member>
+        <member name="M:SpectrumCare.Identity.API.Contracts.Requests.LoginRequest.#ctor(System.String,System.String,System.Guid)">
+            <summary>
+            HTTP request contract for user login.
+            </summary>
+        </member>
+        <member name="T:SpectrumCare.Identity.API.Contracts.Requests.RegisterRequest">
+            <summary>
+            HTTP request contract for user registration.
+            Validated by RegisterRequestValidator before reaching the handler.
+            </summary>
+        </member>
+        <member name="M:SpectrumCare.Identity.API.Contracts.Requests.RegisterRequest.#ctor(System.String,System.String,System.String,System.String,System.Guid)">
+            <summary>
+            HTTP request contract for user registration.
+            Validated by RegisterRequestValidator before reaching the handler.
+            </summary>
+        </member>
+        <member name="T:SpectrumCare.Identity.API.Controllers.AuthController">
+            <summary>
+            Handles authentication endpoints for the Identity service.
+            All endpoints are versioned under /api/v1/auth.
+            Register and Login are public — no JWT required.
+            All other endpoints require valid JWT.
+            </summary>
+        </member>
+        <member name="M:SpectrumCare.Identity.API.Controllers.AuthController.Register(SpectrumCare.Identity.API.Contracts.Requests.RegisterRequest,System.Threading.CancellationToken)">
+            <summary>
+            Registers a new user account.
+            Returns the newly created user ID on success.
+            </summary>
+        </member>
+        <member name="M:SpectrumCare.Identity.API.Controllers.AuthController.Login(SpectrumCare.Identity.API.Contracts.Requests.LoginRequest,System.Threading.CancellationToken)">
+            <summary>
+            Authenticates a user and returns JWT tokens.
+            </summary>
+        </member>
+        <member name="T:SpectrumCare.Identity.API.Controllers.UsersController">
+            <summary>
+            Handles user management endpoints for the Identity service.
+            All endpoints require valid JWT authentication.
+            </summary>
+        </member>
+        <member name="M:SpectrumCare.Identity.API.Controllers.UsersController.GetById(System.Guid,System.Threading.CancellationToken)">
+            <summary>
+            Gets a user by their unique identifier.
+            </summary>
+        </member>
     </members>
 </doc>
