@@ -20,7 +20,15 @@ public sealed class User : AggregateRoot
     /// <summary>Account lockout duration in minutes.</summary>
     public const int LockoutDurationMinutes = 30;
 
-    private readonly List<Role> _roles = new();
+   private readonly List<Role> _roles = new();
+
+/// <summary>
+/// Private parameterless constructor required by EF Core.
+/// Never use this constructor directly in application code.
+/// </summary>
+#pragma warning disable CS8618
+private User() { }
+#pragma warning restore CS8618
 
     private User(
         Guid id,

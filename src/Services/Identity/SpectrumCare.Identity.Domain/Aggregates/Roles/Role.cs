@@ -20,6 +20,14 @@ public sealed class Role : BaseEntity
         public const string Client = "Client";
     }
 
+/// <summary>
+/// Private parameterless constructor required by EF Core.
+/// Never use this constructor directly in application code.
+/// </summary>
+#pragma warning disable CS8618
+private Role() { }
+#pragma warning restore CS8618
+
     private Role(Guid id, string name, string? description, Guid tenantId)
         : base(id)
     {
