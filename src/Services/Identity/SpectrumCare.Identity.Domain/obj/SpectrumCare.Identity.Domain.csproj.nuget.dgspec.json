@@ -63,6 +63,7 @@
             }
           },
           "centralPackageVersions": {
+            "BCrypt.Net-Next": "4.0.3",
             "coverlet.collector": "6.0.4",
             "Dapper": "2.1.35",
             "FluentAssertions": "8.2.0",
@@ -173,6 +174,7 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "centralPackageVersions": {
+            "BCrypt.Net-Next": "4.0.3",
             "coverlet.collector": "6.0.4",
             "Dapper": "2.1.35",
             "FluentAssertions": "8.2.0",

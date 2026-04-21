@@ -71,6 +71,7 @@
   <ItemGroup Label="Security">
     <PackageVersion Include="System.IdentityModel.Tokens.Jwt" Version="8.3.3" />
     <PackageVersion Include="Microsoft.IdentityModel.Tokens" Version="8.3.3" />
+    <PackageVersion Include="BCrypt.Net-Next" Version="4.0.3" />
   </ItemGroup>
 
 </Project>
