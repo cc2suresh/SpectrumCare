@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyCopyrightAttribute("Copyright © SpectrumCare 2024")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff29086b846dd61925e5b445d027b1c7b405dd3a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4cce4d3aa0e14b0a5dd24d68f6a27ff26b8c051")]
 [assembly: System.Reflection.AssemblyProductAttribute("SpectrumCare Platform")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SpectrumCare.Identity.UnitTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
