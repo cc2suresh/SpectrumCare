@@ -4,5 +4,36 @@
         <name>SpectrumCare.BuildingBlocks.UnitTests</name>
     </assembly>
     <members>
+        <member name="T:SpectrumCare.BuildingBlocks.UnitTests.Common.PaginatedListTests">
+            <summary>
+            Unit tests for PaginatedList pagination behavior.
+            </summary>
+        </member>
+        <member name="T:SpectrumCare.BuildingBlocks.UnitTests.Primitives.AggregateRootTests">
+            <summary>
+            Unit tests for AggregateRoot versioning behavior.
+            </summary>
+        </member>
+        <member name="T:SpectrumCare.BuildingBlocks.UnitTests.Primitives.BaseEntityTests">
+            <summary>
+            Unit tests for BaseEntity domain event handling and audit fields.
+            </summary>
+        </member>
+        <member name="T:SpectrumCare.BuildingBlocks.UnitTests.Primitives.ResultTests">
+            <summary>
+            Unit tests for Result and Result{T} pattern.
+            Validates success, failure, and error propagation behavior.
+            </summary>
+        </member>
+        <member name="T:SpectrumCare.BuildingBlocks.UnitTests.ValueObjects.EnumerationTests">
+            <summary>
+            Unit tests for Enumeration base class behavior.
+            </summary>
+        </member>
+        <member name="T:SpectrumCare.BuildingBlocks.UnitTests.ValueObjects.ValueObjectTests">
+            <summary>
+            Unit tests for ValueObject equality and comparison behavior.
+            </summary>
+        </member>
     </members>
 </doc>
