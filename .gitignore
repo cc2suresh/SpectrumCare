@@ -8,6 +8,9 @@ obj/
 project.lock.json
 artifacts/
 
+## Logs
+logs/
+*.log
 ## Publish
 publish/
 **/publish/
