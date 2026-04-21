@@ -184,6 +184,7 @@
           }
         },
         "centralPackageVersions": {
+          "BCrypt.Net-Next": "4.0.3",
           "coverlet.collector": "6.0.4",
           "Dapper": "2.1.35",
           "FluentAssertions": "8.2.0",
