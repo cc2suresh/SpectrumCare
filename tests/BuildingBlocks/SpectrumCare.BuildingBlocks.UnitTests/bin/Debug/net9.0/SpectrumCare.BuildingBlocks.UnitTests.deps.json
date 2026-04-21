@@ -11,6 +11,8 @@
           "FluentAssertions": "8.2.0",
           "Microsoft.NET.Test.Sdk": "17.13.0",
           "Moq": "4.20.72",
+          "SpectrumCare.BuildingBlocks.Application": "1.0.0",
+          "SpectrumCare.BuildingBlocks.Domain": "1.0.0",
           "coverlet.collector": "6.0.4",
           "xunit": "2.9.3",
           "xunit.runner.visualstudio": "3.0.2"
@@ -39,11 +41,39 @@
           }
         }
       },
+      "MediatR/12.4.1": {
+        "dependencies": {
+          "MediatR.Contracts": "2.0.1",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/MediatR.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.4.1.0"
+          }
+        }
+      },
+      "MediatR.Contracts/2.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/MediatR.Contracts.dll": {
+            "assemblyVersion": "2.0.1.0",
+            "fileVersion": "2.0.1.0"
+          }
+        }
+      },
       "Microsoft.CodeCoverage/17.13.0": {
         "runtime": {
           "lib/netcoreapp3.1/Microsoft.VisualStudio.CodeCoverage.Shim.dll": {
             "assemblyVersion": "15.0.0.0",
             "fileVersion": "17.1300.124.60202"
+          }
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0": {
+        "runtime": {
+          "lib/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.53103"
           }
         }
       },
@@ -393,7 +423,32 @@
           }
         }
       },
-      "xunit.runner.visualstudio/3.0.2": {}
+      "xunit.runner.visualstudio/3.0.2": {},
+      "SpectrumCare.BuildingBlocks.Application/1.0.0": {
+        "dependencies": {
+          "MediatR": "12.4.1",
+          "MediatR.Contracts": "2.0.1",
+          "SpectrumCare.BuildingBlocks.Domain": "1.0.0"
+        },
+        "runtime": {
+          "SpectrumCare.BuildingBlocks.Application.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SpectrumCare.BuildingBlocks.Domain/1.0.0": {
+        "dependencies": {
+          "MediatR": "12.4.1",
+          "MediatR.Contracts": "2.0.1"
+        },
+        "runtime": {
+          "SpectrumCare.BuildingBlocks.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
     }
   },
   "libraries": {
@@ -423,12 +478,33 @@
       "path": "fluentassertions/8.2.0",
       "hashPath": "fluentassertions.8.2.0.nupkg.sha512"
     },
+    "MediatR/12.4.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0tLxCgEC5+r1OCuumR3sWyiVa+BMv3AgiU4+pz8xqTc+2q1WbUEXFOr7Orm96oZ9r9FsldgUtWvB2o7b9jDOaw==",
+      "path": "mediatr/12.4.1",
+      "hashPath": "mediatr.12.4.1.nupkg.sha512"
+    },
+    "MediatR.Contracts/2.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-FYv95bNT4UwcNA+G/J1oX5OpRiSUxteXaUt2BJbRSdRNiIUNbggJF69wy6mnk2wYToaanpdXZdCwVylt96MpwQ==",
+      "path": "mediatr.contracts/2.0.1",
+      "hashPath": "mediatr.contracts.2.0.1.nupkg.sha512"
+    },
     "Microsoft.CodeCoverage/17.13.0": {
       "type": "package",
       "serviceable": true,
       "sha512": "sha512-9LIUy0y+DvUmEPtbRDw6Bay3rzwqFV8P4efTrK4CZhQle3M/QwLPjISghfcolmEGAPWxuJi6m98ZEfk4VR4Lfg==",
       "path": "microsoft.codecoverage/17.13.0",
       "hashPath": "microsoft.codecoverage.17.13.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cjWrLkJXK0rs4zofsK4bSdg+jhDLTaxrkXu4gS6Y7MAlCvRyNNgwY/lJi5RDlQOnSZweHqoyvgvbdvQsRIW+hg==",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/8.0.0",
+      "hashPath": "microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
     },
     "Microsoft.NET.Test.Sdk/17.13.0": {
       "type": "package",
@@ -534,6 +610,16 @@
       "sha512": "sha512-oXbusR6iPq0xlqoikjdLvzh+wQDkMv9If58myz9MEzldS4nIcp442Btgs2sWbYWV+caEluMe2pQCZ0hUZgPiow==",
       "path": "xunit.runner.visualstudio/3.0.2",
       "hashPath": "xunit.runner.visualstudio.3.0.2.nupkg.sha512"
+    },
+    "SpectrumCare.BuildingBlocks.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SpectrumCare.BuildingBlocks.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }
