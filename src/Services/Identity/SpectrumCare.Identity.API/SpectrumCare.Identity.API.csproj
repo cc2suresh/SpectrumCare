@@ -8,7 +8,14 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" />
     <PackageReference Include="Swashbuckle.AspNetCore" />
+    <PackageReference Include="MediatR" />
     <PackageReference Include="Serilog.AspNetCore" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SpectrumCare.Identity.Application\SpectrumCare.Identity.Application.csproj" />
+    <ProjectReference Include="..\SpectrumCare.Identity.Infrastructure\SpectrumCare.Identity.Infrastructure.csproj" />
+    <ProjectReference Include="..\..\..\BuildingBlocks\SpectrumCare.BuildingBlocks.Web\SpectrumCare.BuildingBlocks.Web.csproj" />
   </ItemGroup>
 
 </Project>

@@ -8,7 +8,7 @@ namespace SpectrumCare.Identity.Infrastructure.Persistence;
 /// <summary>
 /// EF Core DbContext for the Identity service.
 /// Implements multi-tenant isolation via global query filters on TenantId.
-/// Automatically dispatches domain events on SaveChangesAsync.
+/// Gracefully handles unauthenticated requests for public endpoints.
 /// Never share this DbContext with other services.
 /// </summary>
 public sealed class IdentityDbContext : DbContext
@@ -31,27 +31,30 @@ public sealed class IdentityDbContext : DbContext
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
-        modelBuilder.ApplyConfigurationsFromAssembly(typeof(IdentityDbContext).Assembly);
+        modelBuilder.ApplyConfigurationsFromAssembly(
+            typeof(IdentityDbContext).Assembly);
 
         // Global query filter for multi-tenant isolation
-        // Every query on User and Role is automatically scoped to current tenant
+        // HasTenant check prevents filter from breaking public endpoints
         modelBuilder.Entity<User>()
-            .HasQueryFilter(u => u.TenantId == _tenantContext.TenantId);
+            .HasQueryFilter(u =>
+                !_tenantContext.HasTenant ||
+                u.TenantId == _tenantContext.TenantId);
 
         modelBuilder.Entity<Role>()
-            .HasQueryFilter(r => r.TenantId == _tenantContext.TenantId);
+            .HasQueryFilter(r =>
+                !_tenantContext.HasTenant ||
+                r.TenantId == _tenantContext.TenantId);
 
         base.OnModelCreating(modelBuilder);
     }
 
     /// <summary>
-    /// Saves changes and dispatches domain events.
-    /// Domain events are cleared after successful dispatch.
+    /// Saves changes to the database.
     /// </summary>
     public override async Task<int> SaveChangesAsync(
         CancellationToken cancellationToken = default)
     {
-        var result = await base.SaveChangesAsync(cancellationToken);
-        return result;
+        return await base.SaveChangesAsync(cancellationToken);
     }
 }
