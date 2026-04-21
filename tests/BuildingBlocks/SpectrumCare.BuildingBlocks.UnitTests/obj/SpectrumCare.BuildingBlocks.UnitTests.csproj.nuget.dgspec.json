@@ -4,6 +4,246 @@
     "D:\\SpectrumCare\\tests\\BuildingBlocks\\SpectrumCare.BuildingBlocks.UnitTests\\SpectrumCare.BuildingBlocks.UnitTests.csproj": {}
   },
   "projects": {
+    "D:\\SpectrumCare\\src\\BuildingBlocks\\SpectrumCare.BuildingBlocks.Application\\SpectrumCare.BuildingBlocks.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\SpectrumCare\\src\\BuildingBlocks\\SpectrumCare.BuildingBlocks.Application\\SpectrumCare.BuildingBlocks.Application.csproj",
+        "projectName": "SpectrumCare.BuildingBlocks.Application",
+        "projectPath": "D:\\SpectrumCare\\src\\BuildingBlocks\\SpectrumCare.BuildingBlocks.Application\\SpectrumCare.BuildingBlocks.Application.csproj",
+        "packagesPath": "C:\\Users\\iot2a\\.nuget\\packages\\",
+        "outputPath": "D:\\SpectrumCare\\src\\BuildingBlocks\\SpectrumCare.BuildingBlocks.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "centralPackageVersionsManagementEnabled": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\iot2a\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "D:\\SpectrumCare\\src\\BuildingBlocks\\SpectrumCare.BuildingBlocks.Domain\\SpectrumCare.BuildingBlocks.Domain.csproj": {
+                "projectPath": "D:\\SpectrumCare\\src\\BuildingBlocks\\SpectrumCare.BuildingBlocks.Domain\\SpectrumCare.BuildingBlocks.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "MediatR.Contracts": {
+              "target": "Package",
+              "version": "[2.0.1, )",
+              "versionCentrallyManaged": true
+            }
+          },
+          "centralPackageVersions": {
+            "coverlet.collector": "6.0.4",
+            "Dapper": "2.1.35",
+            "FluentAssertions": "8.2.0",
+            "FluentValidation": "11.11.0",
+            "FluentValidation.DependencyInjectionExtensions": "11.11.0",
+            "Mapster": "7.4.0",
+            "Mapster.DependencyInjection": "1.0.1",
+            "MediatR": "12.4.1",
+            "MediatR.Contracts": "2.0.1",
+            "Microsoft.AspNetCore.Authentication.JwtBearer": "9.0.0",
+            "Microsoft.AspNetCore.Mvc.Testing": "9.0.0",
+            "Microsoft.AspNetCore.OpenApi": "9.0.0",
+            "Microsoft.Data.SqlClient": "5.2.2",
+            "Microsoft.EntityFrameworkCore": "9.0.0",
+            "Microsoft.EntityFrameworkCore.Design": "9.0.0",
+            "Microsoft.EntityFrameworkCore.SqlServer": "9.0.0",
+            "Microsoft.EntityFrameworkCore.Tools": "9.0.0",
+            "Microsoft.Extensions.Configuration.Abstractions": "9.0.0",
+            "Microsoft.Extensions.DependencyInjection": "9.0.0",
+            "Microsoft.Extensions.Http": "9.0.0",
+            "Microsoft.Extensions.Logging.Abstractions": "9.0.0",
+            "Microsoft.Extensions.Options": "9.0.0",
+            "Microsoft.IdentityModel.Tokens": "8.3.3",
+            "Microsoft.NET.Test.Sdk": "17.13.0",
+            "Moq": "4.20.72",
+            "NetArchTest.Rules": "1.3.2",
+            "Serilog": "4.2.0",
+            "Serilog.AspNetCore": "9.0.0",
+            "Serilog.Enrichers.Environment": "3.0.1",
+            "Serilog.Enrichers.Thread": "4.0.0",
+            "Serilog.Sinks.Console": "6.0.0",
+            "Serilog.Sinks.File": "6.0.0",
+            "Swashbuckle.AspNetCore": "7.2.0",
+            "System.IdentityModel.Tokens.Jwt": "8.3.3",
+            "Testcontainers.MsSql": "4.3.0",
+            "xunit": "2.9.3",
+            "xunit.runner.visualstudio": "3.0.2",
+            "Yarp.ReverseProxy": "2.2.0"
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\SpectrumCare\\src\\BuildingBlocks\\SpectrumCare.BuildingBlocks.Domain\\SpectrumCare.BuildingBlocks.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\SpectrumCare\\src\\BuildingBlocks\\SpectrumCare.BuildingBlocks.Domain\\SpectrumCare.BuildingBlocks.Domain.csproj",
+        "projectName": "SpectrumCare.BuildingBlocks.Domain",
+        "projectPath": "D:\\SpectrumCare\\src\\BuildingBlocks\\SpectrumCare.BuildingBlocks.Domain\\SpectrumCare.BuildingBlocks.Domain.csproj",
+        "packagesPath": "C:\\Users\\iot2a\\.nuget\\packages\\",
+        "outputPath": "D:\\SpectrumCare\\src\\BuildingBlocks\\SpectrumCare.BuildingBlocks.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "centralPackageVersionsManagementEnabled": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\iot2a\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "MediatR.Contracts": {
+              "target": "Package",
+              "version": "[2.0.1, )",
+              "versionCentrallyManaged": true
+            }
+          },
+          "centralPackageVersions": {
+            "coverlet.collector": "6.0.4",
+            "Dapper": "2.1.35",
+            "FluentAssertions": "8.2.0",
+            "FluentValidation": "11.11.0",
+            "FluentValidation.DependencyInjectionExtensions": "11.11.0",
+            "Mapster": "7.4.0",
+            "Mapster.DependencyInjection": "1.0.1",
+            "MediatR": "12.4.1",
+            "MediatR.Contracts": "2.0.1",
+            "Microsoft.AspNetCore.Authentication.JwtBearer": "9.0.0",
+            "Microsoft.AspNetCore.Mvc.Testing": "9.0.0",
+            "Microsoft.AspNetCore.OpenApi": "9.0.0",
+            "Microsoft.Data.SqlClient": "5.2.2",
+            "Microsoft.EntityFrameworkCore": "9.0.0",
+            "Microsoft.EntityFrameworkCore.Design": "9.0.0",
+            "Microsoft.EntityFrameworkCore.SqlServer": "9.0.0",
+            "Microsoft.EntityFrameworkCore.Tools": "9.0.0",
+            "Microsoft.Extensions.Configuration.Abstractions": "9.0.0",
+            "Microsoft.Extensions.DependencyInjection": "9.0.0",
+            "Microsoft.Extensions.Http": "9.0.0",
+            "Microsoft.Extensions.Logging.Abstractions": "9.0.0",
+            "Microsoft.Extensions.Options": "9.0.0",
+            "Microsoft.IdentityModel.Tokens": "8.3.3",
+            "Microsoft.NET.Test.Sdk": "17.13.0",
+            "Moq": "4.20.72",
+            "NetArchTest.Rules": "1.3.2",
+            "Serilog": "4.2.0",
+            "Serilog.AspNetCore": "9.0.0",
+            "Serilog.Enrichers.Environment": "3.0.1",
+            "Serilog.Enrichers.Thread": "4.0.0",
+            "Serilog.Sinks.Console": "6.0.0",
+            "Serilog.Sinks.File": "6.0.0",
+            "Swashbuckle.AspNetCore": "7.2.0",
+            "System.IdentityModel.Tokens.Jwt": "8.3.3",
+            "Testcontainers.MsSql": "4.3.0",
+            "xunit": "2.9.3",
+            "xunit.runner.visualstudio": "3.0.2",
+            "Yarp.ReverseProxy": "2.2.0"
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "D:\\SpectrumCare\\tests\\BuildingBlocks\\SpectrumCare.BuildingBlocks.UnitTests\\SpectrumCare.BuildingBlocks.UnitTests.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -32,7 +272,14 @@
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\SpectrumCare\\src\\BuildingBlocks\\SpectrumCare.BuildingBlocks.Application\\SpectrumCare.BuildingBlocks.Application.csproj": {
+                "projectPath": "D:\\SpectrumCare\\src\\BuildingBlocks\\SpectrumCare.BuildingBlocks.Application\\SpectrumCare.BuildingBlocks.Application.csproj"
+              },
+              "D:\\SpectrumCare\\src\\BuildingBlocks\\SpectrumCare.BuildingBlocks.Domain\\SpectrumCare.BuildingBlocks.Domain.csproj": {
+                "projectPath": "D:\\SpectrumCare\\src\\BuildingBlocks\\SpectrumCare.BuildingBlocks.Domain\\SpectrumCare.BuildingBlocks.Domain.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

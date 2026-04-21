@@ -20,4 +20,9 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\src\BuildingBlocks\SpectrumCare.BuildingBlocks.Domain\SpectrumCare.BuildingBlocks.Domain.csproj" />
+    <ProjectReference Include="..\..\..\src\BuildingBlocks\SpectrumCare.BuildingBlocks.Application\SpectrumCare.BuildingBlocks.Application.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -103,3 +103,14 @@ D:\SpectrumCare\tests\BuildingBlocks\SpectrumCare.BuildingBlocks.UnitTests\obj\D
 D:\SpectrumCare\tests\BuildingBlocks\SpectrumCare.BuildingBlocks.UnitTests\obj\Debug\net9.0\SpectrumCare.BuildingBlocks.UnitTests.pdb
 D:\SpectrumCare\tests\BuildingBlocks\SpectrumCare.BuildingBlocks.UnitTests\obj\Debug\net9.0\SpectrumCare.BuildingBlocks.UnitTests.genruntimeconfig.cache
 D:\SpectrumCare\tests\BuildingBlocks\SpectrumCare.BuildingBlocks.UnitTests\obj\Debug\net9.0\ref\SpectrumCare.BuildingBlocks.UnitTests.dll
+D:\SpectrumCare\tests\BuildingBlocks\SpectrumCare.BuildingBlocks.UnitTests\bin\Debug\net9.0\.msCoverageSourceRootsMapping_SpectrumCare.BuildingBlocks.UnitTests
+D:\SpectrumCare\tests\BuildingBlocks\SpectrumCare.BuildingBlocks.UnitTests\bin\Debug\net9.0\CoverletSourceRootsMapping_SpectrumCare.BuildingBlocks.UnitTests
+D:\SpectrumCare\tests\BuildingBlocks\SpectrumCare.BuildingBlocks.UnitTests\bin\Debug\net9.0\MediatR.dll
+D:\SpectrumCare\tests\BuildingBlocks\SpectrumCare.BuildingBlocks.UnitTests\bin\Debug\net9.0\MediatR.Contracts.dll
+D:\SpectrumCare\tests\BuildingBlocks\SpectrumCare.BuildingBlocks.UnitTests\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\SpectrumCare\tests\BuildingBlocks\SpectrumCare.BuildingBlocks.UnitTests\bin\Debug\net9.0\SpectrumCare.BuildingBlocks.Application.dll
+D:\SpectrumCare\tests\BuildingBlocks\SpectrumCare.BuildingBlocks.UnitTests\bin\Debug\net9.0\SpectrumCare.BuildingBlocks.Domain.dll
+D:\SpectrumCare\tests\BuildingBlocks\SpectrumCare.BuildingBlocks.UnitTests\bin\Debug\net9.0\SpectrumCare.BuildingBlocks.Domain.pdb
+D:\SpectrumCare\tests\BuildingBlocks\SpectrumCare.BuildingBlocks.UnitTests\bin\Debug\net9.0\SpectrumCare.BuildingBlocks.Domain.xml
+D:\SpectrumCare\tests\BuildingBlocks\SpectrumCare.BuildingBlocks.UnitTests\bin\Debug\net9.0\SpectrumCare.BuildingBlocks.Application.pdb
+D:\SpectrumCare\tests\BuildingBlocks\SpectrumCare.BuildingBlocks.UnitTests\bin\Debug\net9.0\SpectrumCare.BuildingBlocks.Application.xml
