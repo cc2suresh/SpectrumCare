@@ -1,0 +1,41 @@
+## .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+*.userprefs
+project.lock.json
+artifacts/
+
+## Publish
+publish/
+**/publish/
+
+## Test results
+TestResults/
+coverage/
+*.trx
+*.coveragexml
+
+## Docker
+.dockerignore
+
+## Environment / Secrets
+.env
+.env.*
+!.env.example
+appsettings.Development.json
+appsettings.Local.json
+
+## SonarQube
+.sonarqube/
+.sonar/
+
+## OS
+.DS_Store
+Thumbs.db
+
+## Rider / VS
+.idea/
+*.DotSettings.user
