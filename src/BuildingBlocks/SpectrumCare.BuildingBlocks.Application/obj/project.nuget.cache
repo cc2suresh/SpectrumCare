@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "EuHBAxIX9Ps=",
+  "dgSpecHash": "MScp1Rt+lSs=",
   "success": true,
   "projectFilePath": "D:\\SpectrumCare\\src\\BuildingBlocks\\SpectrumCare.BuildingBlocks.Application\\SpectrumCare.BuildingBlocks.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\iot2a\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
+    "C:\\Users\\iot2a\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\iot2a\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
